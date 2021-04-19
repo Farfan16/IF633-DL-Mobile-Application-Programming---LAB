@@ -1,0 +1,4 @@
+include ':week10b'
+include ':week10a'
+include ':app'
+rootProject.name = "Week10_32455"
